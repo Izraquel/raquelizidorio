@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Raquel Izidorio, estudante de Sistemas de Infomação👋 
 
-- 🔭 Atualmente estou trabalhando com Educação Infantil
-- 🌱 Estu estudando Typescript, JavaScript, React, React Native e NodeJS
+- 🔭 Atualmente sou Estágiaria de Desenvolvimento Mobile
+- 🌱 Estu estudando Typescript, JavaScript, React, React Native, NodeJS e Flutter
 - 😄 Pronomes: ela/dela
 
 <div align="center">
