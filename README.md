@@ -1,6 +1,6 @@
-### Oii! Eu sou a Raquel Izidorio, estudante de Sistemas de Infomação👋 
+### Oii! Eu sou a Raquel Izidorio, bacharel de Sistemas de Infomação👋 
 
-- 🔭 Atualmente sou Estágiaria de Desenvolvimento Mobile
+- 🔭 Atualmente sou Analista de Suporte Jr
 - 🌱 Estu estudando Typescript, JavaScript, React, React Native, NodeJS e Flutter
 - 😄 Pronomes: ela/dela
 
